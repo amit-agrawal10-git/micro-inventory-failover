@@ -1,6 +1,6 @@
-package guru.springframework.microinventoryfailover.web;
+package com.github.amag.microinventoryfailover.web;
 
-import guru.springframework.microinventoryfailover.model.BeerInventoryDto;
+import com.github.amag.microinventoryfailover.model.BeerInventoryDto;
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Component;
 import org.springframework.web.reactive.function.server.ServerRequest;

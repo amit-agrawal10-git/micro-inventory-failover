@@ -1,4 +1,4 @@
-package guru.springframework.microinventoryfailover.model;
+package com.github.amag.microinventoryfailover.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

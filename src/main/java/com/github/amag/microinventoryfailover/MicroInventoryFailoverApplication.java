@@ -1,4 +1,4 @@
-package guru.springframework.microinventoryfailover;
+package com.github.amag.microinventoryfailover;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

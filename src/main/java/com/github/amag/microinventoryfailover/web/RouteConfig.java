@@ -1,4 +1,4 @@
-package guru.springframework.microinventoryfailover.web;
+package com.github.amag.microinventoryfailover.web;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
