@@ -6,6 +6,6 @@ import org.springframework.context.annotation.Profile;
 
 @EnableDiscoveryClient
 @Configuration
-@Profile("local-discovery")
+@Profile({"local-discovery","digitalocean"})
 public class LocalDiscoveryConfig {
 }
